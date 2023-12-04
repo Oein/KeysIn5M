@@ -25,6 +25,9 @@ body {
 	width: 100vw;
 	overflow-x: hidden;
 	overflow-y: auto;
+
+	background: #253238;
+	color: #fff;
 }
 
 thin {
